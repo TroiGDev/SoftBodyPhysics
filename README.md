@@ -1,2 +1,2 @@
 # SoftBodyPhysics
-Soft and rigid body physics in Python Pygame
+Soft body physics in Python Pygame
